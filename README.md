@@ -10,3 +10,6 @@ You can also specify some flags:
 
 * -r <url> to provide a redirect URL for paths which don't match stream patterns
 * -m <number> the minimum number of active streams to consider the server as healthy (for load balancers - /healthy)
+
+
+http://players.akamai.com/players/hlsjs
